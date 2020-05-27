@@ -6,12 +6,12 @@
 
 Gem::Specification.new do |s|
   s.name = "ipaddress"
-  s.version = "0.8.3"
+  s.version = "0.10.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
-  s.authors = ["bluemonk", "mikemackintosh"]
-  s.date = "2016-03-23"
+  s.authors = ["bluemonk", "mikemackintosh", "zh"]
+  s.date = "2020-05-27"
   s.description = "IPAddress is a Ruby library designed to make manipulation\n      of IPv4 and IPv6 addresses both powerful and simple. It mantains\n      a layer of compatibility with Ruby's own IPAddr, while\n      addressing many of its issues."
   s.email = "ceresa@gmail.com"
   s.extra_rdoc_files = [
